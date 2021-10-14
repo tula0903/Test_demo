@@ -8,9 +8,13 @@ git init
 git status
 git add demo.txt
 git commit -m "committing a text file "
-git config -- global user.username
+git config -- global user.username 'tula0903'
+git config -- global user.username 'tularammech2012@gmail.com'
+then git remote
+git commit -m "first commit"
+
 go to your git hub page crate new respority copy link
 git remote add origin ----------link paste-------
-git push origin master
+git push -u origin master
 
  
