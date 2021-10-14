@@ -1,0 +1,16 @@
+git --version
+git help config
+git config --help
+mkdir test
+cd test
+git init
+"create a demo.txt file" in test folder
+git status
+git add demo.txt
+git commit -m "committing a text file "
+git config -- global user.username
+go to your git hub page crate new respority copy link
+git remote add origin ----------link paste-------
+git push origin master
+
+ 
